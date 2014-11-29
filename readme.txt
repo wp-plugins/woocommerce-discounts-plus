@@ -14,7 +14,7 @@ An amazing WooCommerce extension to implement multiple discount criterias with u
 An amazing WooCommerce extension to implement multiple discount criterias with ultimate convenience.
 
 
-WooCommerce Discounts Plus is compatible with WooCommerce 2.0.x to 2.2.x.
+WooCommerce Discounts Plus is compatible with all WooCommerce versions.
 
 Let us examine some examples of usage.
 
@@ -36,14 +36,14 @@ policies to be adopted in your store.
 
 Here is the list of the main features:
 
-*   Possibility of setting percentage Discounts Plus or flat (fixed) Discounts Plus in currency units.
+*   An option of setting percentage Discounts Plus or flat (fixed) Discounts Plus in currency units.
 *   Discounts Plus for product variations is supported to treat them separately or by shared quantity when discounting. 
-*   Discount is better visible and is available on several locations (see below).
-*   Discount is visible on the Checkout page
-*   Discount is visible on the Order Details page
-*   Discount is visible in WooCommerce order e-mails and invoices as well.
+*   Discount is available on several locations (see below).
+*   You will see discount on the Checkout page
+*   You will see discount on the Order Details page
+*   You will see discount in WooCommerce order e-mails and invoices as well.
 *   Showing the applied discount when hovering over the item price in the cart.   
-*   Possibility of easily changing the CSS of the price before and after discount.
+*   An option of easily changing the CSS of the price before and after discount.
 *   Discounts Plus can or cannot be applied if a coupon code is used, depending on configuration.
 *   HTML markup is allowed in information about the Discounts Plus offer in Product Description.
 *   Discounts Plus can be disabled more easily in the Product Options page.
@@ -104,13 +104,11 @@ Yes, the plugin supports localization files. You can add support for your langua
 = Can you provide an example of setting a percentage Discounts Plus? =
 Sure. Below is an example of setting a Discounts Plus for a product with three discount lines. 
 
-1. Quantity (min.) = 3, Discount (%) = 5
-2. Quantity (min.) = 8, Discount (%) = 10
-3. Quantity (min.) = 15, Discount (%) = 15
+1. Quantity (min.) = 11, Discount (%) = 10
+2. Quantity (min.) = 22, Discount (%) = 30
+3. Quantity (min.) = 33, Discount (%) = 50
 
-If the customer orders, say, 12 items of the product which costs $15 per item, the second
-discount line will apply. The customer then pays 12 * 15 = 225 dollars in total minus
-10%, which yields $202.5. Note that this discount policy only applies to the concrete product -- other
+If the customer orders, say, 11 items of the product which costs $15 per item, the second discount line will apply. The customer then pays 12 * 15 = 225 dollars in total minus 10%, which yields $202.5. Note that this discount policy only applies to the concrete product -- other
 products may have their own (possibly different) discount policies.
 
 = Can you provide an example of setting a flat Discounts Plus? =
