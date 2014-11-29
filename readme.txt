@@ -47,7 +47,7 @@ Here is the list of the main features:
 *   Discounts Plus can or cannot be applied if a coupon code is used, depending on configuration.
 *   HTML markup is allowed in information about the Discounts Plus offer in Product Description.
 *   Discounts Plus can be disabled more easily in the Product Options page.
-*   Compatibility with WooCommerce 2.0.x, 2.1.x, 2.2.x.
+*   Compatibility with all WooCommerce versions.
 
 ** If you like WooCommerce Discounts Plus, please also check out more premium plugins: **
 
