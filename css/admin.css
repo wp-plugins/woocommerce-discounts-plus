@@ -1,0 +1,61 @@
+ul.wc-tabs li.discounts_plus_options a {
+	padding: 5px 5px 5px 28px !important;
+}
+
+#discounts_plus_product_data a.button-secondary {
+    margin: 5px 10px;
+}
+
+#discounts_plus_product_data textarea {
+    width: 60% !important;
+}
+
+#discounts_plus_product_data .even {
+	background-color: #eee;
+}
+
+#discounts_plus_product_data .odd {
+	
+}
+
+.wdp.nav-tab.nav-tab-active{
+	background-color:#d66060;
+	color:#FFF;
+}
+
+.wdp-tbl{
+}
+.wdp-tbl tr {
+    border-bottom: 1px solid #ddd;
+}
+.wdp-tbl th{
+	width: 50%;
+}
+.wdp-guy{
+    background: url("../images/character-with-case.png") no-repeat scroll 0 0 / 98% auto rgba(0, 0, 0, 0);
+    height: 122px;
+    position: absolute;
+    right: 0;
+    top: 110px;
+    width: 84px;
+	cursor:pointer;
+}
+.wdp-guy ul {
+    background-color: #d66060;
+    border: 6px solid white;
+    padding: 6px 12px;
+    position: relative;
+    right: 176px;
+    top: -18px;
+    width: 130px;
+}
+.wdp-guy ul li{
+	color:#fff;
+	list-style: inside none circle;
+}
+.wdp-guy ul li:hover{
+	color:#ddd;
+}
+.wdp-guy ul li.hide{
+	display:none;
+}
