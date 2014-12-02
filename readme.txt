@@ -1,5 +1,5 @@
 === WooCommerce Discounts Plus ===
-Contributors: Fahad Mahmood
+Contributors: fahadmahmood
 Tags: woocommerce, discounts, percentages, criteria, sales, sales booster, woocommerce discounts, woocommerce sales
 Requires at least: 3.5
 Tested up to: 4.0
